@@ -8,7 +8,7 @@
 
 ## 🌐 Live Portfolio
 
-🔗 **[Visit My Portfolio](https://vijendrav-portfolio.netlify.app/)**
+🔗 **[Visit My Portfolio](https://vijendra-softwaredeveloper-portfolio.netlify.app/)**
 
 ---
 
